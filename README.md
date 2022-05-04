@@ -36,13 +36,11 @@
 - OPTIONAL 棉签
 - OPTIONAL 备用牙刷
 - OPTIONAL 梳子
-
 - MUST 洗发水
 - MUST 沐浴露
 - MUST 洗澡毛巾
 - SHOULD 吹风机
 - OPTIONAL 其他毛巾
-
 - MUST 指甲钳
 - MUST 指甲刀
 
