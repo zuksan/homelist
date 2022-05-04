@@ -22,6 +22,7 @@
 - SHOULD 插排
 - SHOULD 擦桌布
 - SHOULD 擦地抹布
+- SHOULD 垃圾桶
 
 ## 卫生间
 
@@ -29,15 +30,18 @@
 
 - MUST 牙刷
 - MUST 牙膏
-- OPTIONAL 棉签
-- OPTIONAL 备用牙刷
+- MUST 剃须刀
 - MUST 洗面奶
 - MUST 洗脸毛巾
+- OPTIONAL 棉签
+- OPTIONAL 备用牙刷
+- OPTIONAL 梳子
 
 - MUST 洗发水
 - MUST 沐浴露
 - MUST 洗澡毛巾
-- SHOULD 其他毛巾
+- SHOULD 吹风机
+- OPTIONAL 其他毛巾
 
 - MUST 指甲钳
 - MUST 指甲刀
@@ -50,6 +54,7 @@
 - SHOULD 鞋刷
 - SHOULD 洗衣盆
 - SHOULD 刷鞋盆/收衣服盆
+- OPTIONAL 消毒液
 
 ### 消耗品
 
@@ -103,6 +108,7 @@
 - MUST 洗洁精
 - MUST 百洁布 / 海绵
 - MUST 垃圾袋
+- OPTIONAL 厨房垃圾桶
 - RECOMMENDED 厨房擦桌子布
 - RECOMMENDED 擦手巾
 - OPTIONAL 厨房纸巾
